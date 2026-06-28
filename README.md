@@ -16,3 +16,7 @@
 **Backend Integration:** Successfully uploaded the gathered sensor payload from the client app to the centralized data collection web service.
 
 **Data Analytics:** Conducted exploratory data analysis on the extracted sensor outputs using exploratory data science environments (Python).
+
+**Screenshot of the application:**
+
+<img width="554" height="671" alt="Sensor Data Collector" src="https://github.com/user-attachments/assets/741fafc6-a7c5-4953-82f0-9cbac83dd0cc" />
